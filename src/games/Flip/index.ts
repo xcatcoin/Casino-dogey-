@@ -5,7 +5,7 @@ export default {
   name: 'Flip',
   short_name: 'flip',
   description: `
-    Pick Heads or Tails. Double your money or go broke. Simple as.
+    creator: 'ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz'.
   `,
   image,
   theme_color: 'rgb(255 218 121)',
