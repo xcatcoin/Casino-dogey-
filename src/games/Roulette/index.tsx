@@ -5,7 +5,7 @@ export default {
   name: 'Roulette',
   short_name: 'roulette',
   description: `
-    A miniature version of Roulette. WYSIWYG!
+    creator :ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz
   `,
   image,
   theme_color: 'rgb(29 232 126)',
