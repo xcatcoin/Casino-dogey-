@@ -5,7 +5,7 @@ export default {
   name: 'Slots',
   short_name: 'slots',
   description: `
-   creator:'ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz',
+   creator:ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz
   `,
   image,
   theme_color: '#d185ff',
