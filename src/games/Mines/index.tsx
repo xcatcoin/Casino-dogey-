@@ -5,7 +5,7 @@ export default {
   name: 'Mines',
   short_name: 'mines',
   description:
-    creator:'ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz',
+  creator:'ACoPzg7tNqhBXJm4JSQwKrJ7LiocezBTSZRQfLmrxpZz',
   `,
   theme_color: 'rgb(138 102 255)',
   image,
